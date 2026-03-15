@@ -1,21 +1,50 @@
-## print("Hola, mundo.") 👋
+<div align="center">
 
-### 🧠 Sobre mí
-- Estudiante de Redes y Software.
-- Me gusta aprender tecnología experimentando y construyendo cosas.
-- Uso este GitHub como un laboratorio personal donde documento los proyectos que desarrollo.
+# print("Hola mundo!")  🖖🏻
 
-### 🚀 Áreas que me interesan
-- 💻 Programación y desarrollo web
-- 👾 Entrenamiento de modelos IA
-- 🎮 Creación de juegos y proyectos interactivos
-- ⚙️ Automatización y herramientas DevOps
+Estudiante de Redes y Software  
+Aprendo construyendo y documento cada paso del camino.
 
-### 🔧 Otros intereses tecnológicos
-Además del software también me interesa la tecnología física:
-- 🛸 Drones FPV
-- 🔌 Electrónica y hardware
-- 🛠 Proyectos DIY
+</div>
+
+---
+
+## Sobre mí
+
+* Cada proyecto en este GitHub representa algo que aprendí, rompí, entendí o reconstruí.
+* Registro el proceso: decisiones, errores y soluciones.  
+* Creo que documentar es parte de aprender.
+
+Áreas que estoy explorando actualmente:
+- Desarrollo full stack
+- Automatización y scripting
+- Inteligencia artificial aplicada
+- Redes, electrónica, drones y proyectos DIY
+
+---
+
+## Stack
+
+**Lenguajes & Bases de datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+
+<div align="center">
+  <sub>No solo escribo código — documento el proceso de aprenderlo.</sub>
+</div>
 
 <!--
 **QuirogaAcad/QuirogaAcad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
