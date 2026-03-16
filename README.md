@@ -9,6 +9,15 @@ Aprendo construyendo y documento cada paso del camino.
 
 ---
 
+## 📓 Gabo-dev-notes
+
+**Repositorio donde documento mi aprendizaje**.  
+Cada commit representa una clase o concepto aprendido.
+
+→ [Abrir cuaderno técnico](https://github.com/QuirogaAcad/gabo-dev-notes)
+
+---
+
 ## Sobre mí
 
 * Cada proyecto en este GitHub representa algo que aprendí, rompí, entendí o reconstruí.
