@@ -2,8 +2,7 @@
 
 # print("Hola mundo!")  🖖🏻
 
-Estudiante de Redes y Software  
-Aprendo construyendo y documento cada paso del camino.
+Estudiante de Redes y Software
 
 </div>
 
