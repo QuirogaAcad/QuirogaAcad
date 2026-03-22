@@ -14,8 +14,6 @@ Estudiante de Redes y Software
 
 Áreas que estoy explorando actualmente:
 - Desarrollo full stack
-- Automatización y scripting
-- Inteligencia artificial aplicada
 - Redes, electrónica, drones y proyectos DIY
 
 ---
