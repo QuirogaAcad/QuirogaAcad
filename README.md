@@ -54,6 +54,12 @@ Cada commit representa una clase o concepto aprendido.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+**Metodologías**
+
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white) 
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven%20Development-6C63FF?style=flat-square&logo=readthedocs&logoColor=white) 
+
 
 <div align="center">
   <sub>No solo escribo código — documento el proceso de aprenderlo.</sub>
